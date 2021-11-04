@@ -1,6 +1,6 @@
 cmake_minimum_required (VERSION 2.6)
 
-project (WiseShell)
+project (Truc)
 include_directories(src)
 
-add_executable(WiseShell src/utils/Utils.cpp src/Menu.cpp Main.cpp)
+add_executable(Truc src/utils/Utils.cpp src/Menu.cpp Main.cpp)
