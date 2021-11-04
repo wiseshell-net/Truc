@@ -8,6 +8,8 @@
 #include "Utils.h"
 #include <iostream>
 #include <cctype>
+#include <string>
+#include <vector>
 using namespace std;
 
 char GetCharacter(const char *prompt, const char *error) {
@@ -77,6 +79,43 @@ char GetCharacter(const char *prompt, const char *error,
 
 	return ' ';
 }
+
+// TODO implement this
+/*char GetCharacter(const char *prompt, const char *error, std::vector<std::string> validInput) {
+	const int IGNORE_CHARS = 256;
+	char input;
+	bool inputFailure = false;
+
+	do {
+
+		cout << prompt;
+		cin >> input;
+
+		if (cin.fail()) {
+			cin.ignore(256, '\n');
+			cin.clear();
+			cout << error << endl;
+			inputFailure = true;
+		} else {
+			cin.ignore(256, '\n');
+
+			input = tolower(input);
+
+
+			for (int i = 0; i < validInput.size(); ++i) {
+				if (input.compare(validInput.at(i))) == 0) {
+					return input;
+				}
+			}
+
+			cout << error << endl;
+			inputFailure = true;
+		}
+
+	} while (inputFailure);
+
+	return ' ';
+}*/
 
 void ClearScreen() {
 	cout << "Clearing Screen..." << endl;
