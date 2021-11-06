@@ -1,9 +1,31 @@
-See src/Menu.cpp
-See Main.cpp
+JOC TRUC
 
-Implementar aquest codi al README:
+Pàgina web:
+- Posar instruccions de truc
+
+Codi (prioritat alta):
+- Posar instruccions de truc (vés a print.cpp, a partir de la línia 54).
+
+Intentar fer-ho tipo:
+1. Se col·loquen per parelles.
+2. Hi ha 3 rondes.
+3. Se reparteixen tres cartes (sense 8 i 9).
+4. XXXX
+5. XXXX
+6. XXXX
+7. XXXX
+8. XXXX
+
+- Neteja general de codi. Hi ha funcions que són de BlackJack.
+
+- (No prioritari) Fer altres jocs apart de Truc (?). Estaria guai tenir-ho tot en un mateix lloc, lo que haurem de fer feina amb moltes herències (si un cas ja faríem mockup per això).
+
+- (No prioritari, però convenient) Implementar aquest codi al README:
 [![AppVeyor](https://img.shields.io/appveyor/build/ineshbose/blackjack-cpp?label=AppVeyor&style=flat-square&logo=appveyor)](https://ci.appveyor.com/project/ineshbose/blackjack-cpp)
 [![Travis (.org)](https://img.shields.io/travis/ineshbose/blackjack_cpp?label=Travis&style=flat-square&logo=travis-ci)](https://travis-ci.org/github/ineshbose/blackjack_cpp)
 [![Codacy grade](https://img.shields.io/codacy/grade/760d6c817b324726898e79ded9aa807e?style=flat-square&logo=codacy)](https://app.codacy.com/manual/ineshbose/Blackjack_CPP)
 [![GitHub](https://img.shields.io/github/license/ineshbose/Blackjack_CPP?style=flat-square)](LICENSE)
 [![Run on Repl.it](https://img.shields.io/badge/run_on_repl.it--lightgrey?style=flat-square&logo=repl.it)](https://repl.it/github/ineshbose/blackjack_cpp)
+
+Gràfics (prioritat baixa, de moment):
+- Dibuixar escenes a llapis, per després implementar-les i tenir una referència.
