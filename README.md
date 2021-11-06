@@ -5,7 +5,7 @@ A la llarga potser afegim altres jocs apart de truc.
 
 ## Setup al teu ordinador
 
-* Instal·lar **Eclipse for C/C++ Developers** o **KDevelop 5.6.0**. Potser també se necessiti instal·lar g++ en Windows.<br/>
+* Instal·lar **[Eclipse for C/C++ Developers]**(https://www.eclipse.org/downloads/download.php?file=/technology/epp/downloads/release/2021-09/R/eclipse-cpp-2021-09-R-win32-x86_64.zip) o **KDevelop 5.6.0**. Potser també se necessiti instal·lar g++ en Windows.<br/>
 
 ### KDevelop
 * Obre KDevelop. Selecciona el projecte, vés al menú de l'esquerra de tot del programa i obre *Projects* abans de començar a programar.
