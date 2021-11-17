@@ -7,13 +7,13 @@ project(truc)
 
 add_executable(
     truc
-    src/truc.cpp
-    src/card.cpp
-    src/banca.cpp
-    src/deck.cpp
-    src/game.cpp
-    src/human.cpp
-    src/player.cpp
-    src/print.cpp
-    src/statistics.cpp
+    src/games/truc/truc.cpp
+    src/games/truc/card.cpp
+    src/games/truc/banca.cpp
+    src/games/truc/deck.cpp
+    src/games/truc/game.cpp
+    src/games/truc/human.cpp
+    src/games/truc/player.cpp
+    src/games/truc/print.cpp
+    src/games/truc/statistics.cpp
 )
