@@ -1,0 +1,68 @@
+/* { file_name, font_size_pt }, */
+
+{ "yard_sale.ttf",              96 },
+{ "yard_sale.ttf",              84 },
+{ "yard_sale.ttf",              72 },
+{ "yard_sale.ttf",              66 },
+{ "yard_sale.ttf",              56 },
+{ "yard_sale.ttf",              48 },
+{ "yard_sale.ttf",              36 },
+{ "yard_sale.ttf",              32 },
+{ "yard_sale.ttf",              24 },
+
+{ "riffic.ttf",                 72 },
+{ "riffic.ttf",                 66 },
+{ "riffic.ttf",                 54 },
+{ "riffic.ttf",                 48 },
+{ "riffic.ttf",                 32 },
+{ "riffic.ttf",                 24 },
+{ "riffic.ttf",                 20 },
+{ "riffic.ttf",                 16 },
+
+{ "FreeMono.ttf",               32 },
+{ "FreeMono.ttf",               24 },
+{ "FreeMono.ttf",               16 },
+
+{ "FreeMonoBold.ttf",           32 },
+{ "FreeMonoBold.ttf",           24 },
+{ "FreeMonoBold.ttf",           16 },
+
+{ "FreeMonoBoldOblique.ttf",    32 },
+{ "FreeMonoBoldOblique.ttf",    24 },
+{ "FreeMonoBoldOblique.ttf",    16 },
+
+{ "FreeMonoOblique.ttf",        32 },
+{ "FreeMonoOblique.ttf",        24 },
+{ "FreeMonoOblique.ttf",        16 },
+
+{ "FreeSans.ttf",               32 },
+{ "FreeSans.ttf",               24 },
+{ "FreeSans.ttf",               16 },
+
+{ "FreeSansBold.ttf",           32 },
+{ "FreeSansBold.ttf",           24 },
+{ "FreeSansBold.ttf",           16 },
+
+{ "FreeSansBoldOblique.ttf",    32 },
+{ "FreeSansBoldOblique.ttf",    24 },
+{ "FreeSansBoldOblique.ttf",    16 },
+
+{ "FreeSansOblique.ttf",        32 },
+{ "FreeSansOblique.ttf",        24 },
+{ "FreeSansOblique.ttf",        16 },
+
+{ "FreeSerif.ttf",              32 },
+{ "FreeSerif.ttf",              24 },
+{ "FreeSerif.ttf",              16 },
+
+{ "FreeSerifBold.ttf",          32 },
+{ "FreeSerifBold.ttf",          24 },
+{ "FreeSerifBold.ttf",          16 },
+
+{ "FreeSerifBoldItalic.ttf",    32 },
+{ "FreeSerifBoldItalic.ttf",    24 },
+{ "FreeSerifBoldItalic.ttf",    16 },
+
+{ "FreeSerifItalic.ttf",        32 },
+{ "FreeSerifItalic.ttf",        24 },
+{ "FreeSerifItalic.ttf",        16 },
