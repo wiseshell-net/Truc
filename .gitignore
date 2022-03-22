@@ -1,3 +1,8 @@
+# Ignore compiled files
+*.d
+*.o
+game
+
 # Ignore build directory
 build
 
