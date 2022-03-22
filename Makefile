@@ -21,7 +21,7 @@ CFLAGS += $(if $(PLIBS), $(shell pkg-config --cflags $(PLIBS)))
 
 # C++ specific flags
 CXXFLAGS :=
-CXXFLAGS := -pedantic-errors -std=c++14
+CXXFLAGS := -pedantic-errors -std=c++11
 CXXFLAGS := $(strip $(CXXFLAGS) $(CFLAGS))
 
 # C specific flags
