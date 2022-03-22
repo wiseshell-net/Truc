@@ -1,9 +1,0 @@
-# Ignore build directory
-build
-
-# Ignore Eclipse-related files
-.cproject
-.project
-
-# Ignore KDevelop-related files
-*.kdev4
